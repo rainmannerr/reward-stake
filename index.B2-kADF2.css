@@ -1,0 +1,17 @@
+.ctainer.svelte-1h1911a {
+    display: flex;
+    flex-direction: column;
+    padding: var(--space-8) var(--space-4) var(--space-4);
+    gap: var(--space-8)
+}
+
+.image-wrapper.svelte-1h1911a {
+    height: 260px
+}
+
+img.svelte-1h1911a {
+    width: 100%;
+    height: 260px;
+    -o-object-fit: cover;
+    object-fit: cover
+}

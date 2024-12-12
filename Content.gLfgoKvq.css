@@ -1,0 +1,12 @@
+.content.svelte-ortsob {
+    padding-right: var(--space-4);
+    padding-left: var(--space-4);
+    display: flex;
+    flex-direction: column;
+    padding-bottom: var(--space-4);
+    gap: var(--space-4)
+}
+
+.content.top-spacing.svelte-ortsob {
+    padding-top: var(--space-4)
+}

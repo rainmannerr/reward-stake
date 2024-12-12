@@ -1,0 +1,19 @@
+.ctainer.svelte-183w95m {
+    display: flex;
+    flex-direction: column;
+    padding: var(--space-8) var(--space-4) 0;
+    justify-content: space-between;
+    min-height: 15rem;
+    max-height: 25rem
+}
+
+.button-wrapper.svelte-183w95m {
+    padding-bottom: var(--space-4)
+}
+
+img.svelte-183w95m {
+    width: 100%;
+    height: 260px;
+    -o-object-fit: cover;
+    object-fit: cover
+}

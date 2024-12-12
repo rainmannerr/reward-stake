@@ -1,0 +1,10 @@
+.center-wrapper.svelte-1xkr3pf {
+    align-self: center;
+    margin-bottom: var(--space-1)
+}
+
+.footer.svelte-1xkr3pf {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3)
+}

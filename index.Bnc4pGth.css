@@ -1,0 +1,28 @@
+.fiat-wrapper.svelte-amtc4z {
+    display: inline-flex;
+    align-items: center
+}
+
+.fiat-wrapper.svelte-amtc4z>*+* {
+    margin-left: var(--space-1)
+}
+
+.currency.svelte-141qgpc {
+    display: inline-flex;
+    align-items: center
+}
+
+.currency.svelte-141qgpc>*+* {
+    margin-left: var(--space-1)
+}
+
+.content.svelte-141qgpc {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums
+}
+
+.content.svelte-141qgpc>* {
+    line-height: 1.5
+}
