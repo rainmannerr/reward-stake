@@ -1,0 +1,50 @@
+.ctainer.svelte-mrq20s {
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: var(--grey-700);
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-4) var(--space-5)
+}
+
+.ctainer.svelte-mrq20s .button {
+    font-size: var(--text-size-sm);
+    font-weight: 400
+}
+
+.step.svelte-mrq20s {
+    height: var(--space-1);
+    background-color: var(--grey-400)
+}
+
+.step.active-step.svelte-mrq20s {
+    background: var(--green-500)
+}
+
+.ctainer.svelte-rvzd62 {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    background-color: var(--grey-700)
+}
+
+.ctainer.confirm-email.svelte-rvzd62 {
+    padding: 0 var(--space-4) var(--space-4)
+}
+
+.ctainer.svelte-rvzd62 form {
+    flex: 1
+}
+
+.ctainer.svelte-rvzd62 form *:focus {
+    scroll-margin-bottom: 8rem
+}
+
+.ctainer.svelte-rvzd62 form .submit-ctainer {
+    position: sticky;
+    bottom: 0;
+    background-color: var(--grey-700);
+    padding: var(--space-4)
+}

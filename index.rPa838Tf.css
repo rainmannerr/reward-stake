@@ -1,0 +1,9 @@
+.seal.svelte-h38nvw img {
+    width: 32px !important;
+    margin: var(--space-0-5);
+    border-radius: .125rem
+}
+
+.seal.svelte-h38nvw div {
+    overflow: visible !important
+}

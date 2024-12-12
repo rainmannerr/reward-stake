@@ -1,0 +1,7 @@
+.terms.svelte-yk04zj {
+    max-height: 45dvh;
+    background: var(--grey-500);
+    padding: var(--space-4);
+    border-radius: var(--radius-base);
+    text-align: start
+}

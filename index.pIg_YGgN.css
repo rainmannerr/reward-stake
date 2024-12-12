@@ -1,0 +1,11 @@
+.fairness.svelte-pab26t {
+    width: 100%;
+    display: flex;
+    flex-direction: column
+}
+
+.tabs-wrap.svelte-pab26t {
+    width: 100%;
+    display: flex;
+    justify-content: center
+}

@@ -1,0 +1,8 @@
+.ctainer.svelte-zbgtdz {
+    display: flex;
+    background-color: var(--grey-600);
+    padding: var(--space-3) var(--space-4);
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: var(--shadows-md)
+}
